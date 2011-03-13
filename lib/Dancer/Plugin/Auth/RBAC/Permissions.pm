@@ -2,7 +2,7 @@
 
 package Dancer::Plugin::Auth::RBAC::Permissions;
 BEGIN {
-  $Dancer::Plugin::Auth::RBAC::Permissions::VERSION = '1.103430';
+  $Dancer::Plugin::Auth::RBAC::Permissions::VERSION = '1.110720';
 }
 
 use strict;
@@ -55,7 +55,7 @@ Dancer::Plugin::Auth::RBAC::Permissions - Dancer::Plugin::Auth::RBAC Permissions
 
 =head1 VERSION
 
-version 1.103430
+version 1.110720
 
 =head1 SYNOPSIS
 

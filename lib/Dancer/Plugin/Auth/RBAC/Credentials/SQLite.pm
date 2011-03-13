@@ -2,7 +2,7 @@
 
 package Dancer::Plugin::Auth::RBAC::Credentials::SQLite;
 BEGIN {
-  $Dancer::Plugin::Auth::RBAC::Credentials::SQLite::VERSION = '1.103430';
+  $Dancer::Plugin::Auth::RBAC::Credentials::SQLite::VERSION = '1.110720';
 }
 
 use strict;
@@ -85,7 +85,7 @@ Dancer::Plugin::Auth::RBAC::Credentials::SQLite - Dancer::Plugin::Auth::RBAC aut
 
 =head1 VERSION
 
-version 1.103430
+version 1.110720
 
 =head1 SYNOPSIS
 

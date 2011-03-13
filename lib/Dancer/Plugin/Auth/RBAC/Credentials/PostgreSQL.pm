@@ -2,7 +2,7 @@
 
 package Dancer::Plugin::Auth::RBAC::Credentials::PostgreSQL;
 BEGIN {
-  $Dancer::Plugin::Auth::RBAC::Credentials::PostgreSQL::VERSION = '1.103430';
+  $Dancer::Plugin::Auth::RBAC::Credentials::PostgreSQL::VERSION = '1.110720';
 }
 
 use strict;
@@ -84,7 +84,7 @@ Dancer::Plugin::Auth::RBAC::Credentials::PostgreSQL - Dancer::Plugin::Auth::RBAC
 
 =head1 VERSION
 
-version 1.103430
+version 1.110720
 
 =head1 SYNOPSIS
 

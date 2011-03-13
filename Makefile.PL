@@ -21,9 +21,10 @@ my %WriteMakefileArgs = (
   'NAME' => 'Dancer::Plugin::Auth::RBAC',
   'PREREQ_PM' => {
     'Dancer' => '0',
-    'Dancer::Plugin::Database' => '0'
+    'Dancer::Plugin::Database' => '0',
+    'YAML' => '0'
   },
-  'VERSION' => '1.103430',
+  'VERSION' => '1.110720',
   'test' => {
     'TESTS' => 't/*.t'
   }

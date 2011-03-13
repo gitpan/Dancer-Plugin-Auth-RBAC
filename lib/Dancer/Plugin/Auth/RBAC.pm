@@ -2,7 +2,7 @@
 
 package Dancer::Plugin::Auth::RBAC;
 BEGIN {
-  $Dancer::Plugin::Auth::RBAC::VERSION = '1.103430';
+  $Dancer::Plugin::Auth::RBAC::VERSION = '1.110720';
 }
 use strict;
 use warnings;
@@ -141,7 +141,7 @@ Dancer::Plugin::Auth::RBAC - Dancer Authentication, Security and Role-Based Acce
 
 =head1 VERSION
 
-version 1.103430
+version 1.110720
 
 =head1 SYNOPSIS
 

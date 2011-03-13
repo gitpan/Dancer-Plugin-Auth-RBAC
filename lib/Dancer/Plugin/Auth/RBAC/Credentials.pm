@@ -2,7 +2,7 @@
 
 package Dancer::Plugin::Auth::RBAC::Credentials;
 BEGIN {
-  $Dancer::Plugin::Auth::RBAC::Credentials::VERSION = '1.103430';
+  $Dancer::Plugin::Auth::RBAC::Credentials::VERSION = '1.110720';
 }
 
 use strict;
@@ -47,7 +47,7 @@ Dancer::Plugin::Auth::RBAC::Credentials - Dancer::Plugin::Auth::RBAC Credentials
 
 =head1 VERSION
 
-version 1.103430
+version 1.110720
 
 =head1 SYNOPSIS
 
